@@ -1,2 +1,3 @@
-# dio-interface-iphone
-Projeto de Interface em Java
+<h3>Projeto Interface Iphone</h3>
+<p>Projeto criado para exemplificar o uso da Interface em Java onde foi criado três classes duas delas representando dois produtos da empresa Apple que possue funções separadas como tocar musica com o produto Ipod, navegar pela internet com browser Safari e uma classe chamada celular (representando um celular de modelo antigo) e depois a classe que representa a abstração maxima que é realizada com a criação da classe que representa o smartphone Iphone onde é implementada as trẽs Interfaces, mostrando que o objeto iphone executa as três funçoes de tocar musica, navegar pela internet e atender ligações, no projeto também foi criado no pacote img o diagrama da classe em UML, mostrando as classes criadas e suas interfaces.
+</p>
