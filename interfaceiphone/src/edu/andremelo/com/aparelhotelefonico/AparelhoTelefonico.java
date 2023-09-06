@@ -1,12 +1,7 @@
-package edu.andremelo.com.classes;
+package edu.andremelo.com.aparelhotelefonico;
 public interface AparelhoTelefonico {
-    public default void ligarTelefone(){
-        System.out.println("Ligando o Telefone!");
-    }
-    public default void atenderTelefone(){
-        System.out.println("Atendendo o Telefone!");
-    }
-    public default void iniciarCorreioVoz(){
-        System.out.println("Iniciando Correio de Voz");
-    }
+    public void ligarTelefone();
+    public void atenderTelefone();
+    public void iniciarCorreioVoz();
 }
+
